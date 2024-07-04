@@ -1,0 +1,5 @@
+wails_htmx_templ/frontend/dist
+wails_htmx_templ/frontend/wailsjs
+wails_htmx_templ/frontend/node_modules
+wails_htmx_templ/build/bin
+wails_htmx_templ/frontend/package.json.md5
