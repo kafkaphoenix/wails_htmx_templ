@@ -10,8 +10,8 @@
   },
   "private": true,
   "scripts": {
-    "dev": "bun -b --hot vite",
-    "build": "bun -b vite build",
-    "preview": "bun -b vite preview"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   }
 ,"author":"Javier Aguilera"}
